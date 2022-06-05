@@ -176,3 +176,18 @@ footer>div{
     align-items: center;
     justify-content: space-between;
 }
+button:hover{
+    opacity: .7;
+    cursor: pointer;
+}
+i{
+font-size: 25px;
+}
+i:hover {
+    color: var(--Strong-Cyan);
+    cursor: pointer;
+}
+.services>div>p:hover{
+    color: var(--Strong-Cyan);
+    cursor: pointer;
+}
